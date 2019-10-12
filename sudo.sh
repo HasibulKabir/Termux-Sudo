@@ -17,5 +17,3 @@ cd $HOME
 rm -rf termux-sudo
 
 echo "Successfully installed sudo"
-
-rm sudo.sh
